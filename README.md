@@ -17,9 +17,8 @@
 ## 📚 Atualmente estudando
 
 - Programação em **C**
-- **Lógica de programação**
+- **Estrutura de dados**
 - **Desenvolvimento web**
-- **Versionamento de código com Git e GitHub**
 
 ---
 
