@@ -30,14 +30,4 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
-
----
-
 ⭐ **Sempre aprendendo e evoluindo na programação**
